@@ -46,7 +46,7 @@ public class Path_follower : MonoBehaviour {
 			{
 				if (path [i] != null) 
 				{
-					//Gizmos.color = Color.white;
+					Gizmos.color = Color.blue;
 					Gizmos.DrawSphere(path[i].position,reachDist);
 					print ("draw");
 				}
