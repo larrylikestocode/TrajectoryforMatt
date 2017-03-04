@@ -49,6 +49,7 @@
      <Compile Include="Assets\C#Script\FORCE.cs" />
      <Compile Include="Assets\C#Script\Launcher.cs" />
      <Compile Include="Assets\C#Script\Path_follower.cs" />
+     <Compile Include="Assets\C#Script\RenderBallisticPath.cs" />
      <Compile Include="Assets\C#Script\Rotate_torque.cs" />
      <Compile Include="Assets\C#Script\Rotatetowards.cs" />
  <Reference Include="UnityEngine.Analytics">
